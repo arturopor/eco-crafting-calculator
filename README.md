@@ -1,5 +1,4 @@
-# Last Oasis Crafter
-The crafting tool can be found here: https://www.lastoasiscrafter.com
+# Eco Crafter
 
 # Contributing
 ## Adding/Updating Items
@@ -8,5 +7,3 @@ I am using [ObjGen](https://beta5.objgen.com/json/) for now because it's an easi
 To update the [`src/items.json`](src/items.json) file please follow these steps.
 1. Update [`src/itemObjGen.txt`](src/itemObjGen.txt).
 2. Run `npm run objgen`.
-3. Commit, Push and [Create a Pull Request](https://github.com/Last-Oasis-Crafter/lastoasis-crafting-calculator/compare).
-	* In the PR description mention where you got the data you are adding. Screenshots or links are helpful.
